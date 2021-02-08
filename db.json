@@ -7,7 +7,7 @@
   ],
   "inventaires":[
   {
-  id:1,
+  "id":1,
   "societe": "ABCIS_URRUGNE",
   "site" :"Urrugne",
   "lieu":"Parc VO",
@@ -16,7 +16,7 @@
   "status": "finished",
   "vehicules": 12,
 },{
-  id:2,
+  "id":2,
   "societe": "ABCIS_URRUGNE",
   "site" :"Urrugne",
   "lieu":"Parc ext.",
@@ -26,7 +26,7 @@
   "vehicules": 2,
 },
 {
-  id:3,
+  "id":3,
   "societe": "ABCIS_URRUGNE",
   "site" :"Urrugne",
   "lieu":"Parc VO",
@@ -36,7 +36,7 @@
   "vehicules": 12,
 },
 {
-  id:4,
+  "id":4,
   "societe": "ABCIS_BAYONNE",
   "site" :"Bayonne",
   "lieu":"Parc VO",
@@ -46,7 +46,7 @@
   "vehicules": 12,
 }
 ,{
-  id:5,
+  "id":5,
   "societe": "ABCIS_URRUGNE",
   "site" :"Urrugne",
   "lieu":"Parc VO",
