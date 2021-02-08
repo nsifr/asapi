@@ -5,6 +5,58 @@
       "title": "hello"
     }
   ],
+  "inventaires"[
+  {
+  id:1,
+  "societe": "ABCIS_URRUGNE",
+  "site" :"Urrugne",
+  "lieu":"Parc VO",
+  "start": "2021-02-01 09:42:57",
+  "end": "2021-02-01 16:28:02",
+  "status": "finished",
+  "vehicules": 12,
+},{
+  id:2,
+  "societe": "ABCIS_URRUGNE",
+  "site" :"Urrugne",
+  "lieu":"Parc ext.",
+  "start": "2021-02-01 09:45:42",
+  "end": null,
+  "status": "started",
+  "vehicules": 2,
+},
+{
+  id:3,
+  "societe": "ABCIS_URRUGNE",
+  "site" :"Urrugne",
+  "lieu":"Parc VO",
+  "start": "2021-02-01 09:42:57",
+  "end": "2021-02-01 16:28:02",
+  "status": "finished",
+  "vehicules": 12,
+},
+{
+  id:4,
+  "societe": "ABCIS_BAYONNE",
+  "site" :"Bayonne",
+  "lieu":"Parc VO",
+  "start": "2021-02-01 09:42:57",
+  "end": "2021-02-01 16:28:02",
+  "status": "finished",
+  "vehicules": 12,
+}
+,{
+  id:5,
+  "societe": "ABCIS_URRUGNE",
+  "site" :"Urrugne",
+  "lieu":"Parc VO",
+  "start": "2021-02-01 09:42:57",
+  "end": "2021-02-01 16:28:02",
+  "status": "finished",
+  "vehicules": 12,
+}
+
+  ],
   "societes":[
     {
       "id":1,
