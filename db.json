@@ -13,7 +13,7 @@
          "lieu":"Parc VO",
          "start":"2021-02-01 09:42:57",
          "end":"2021-02-01 16:28:02",
-         "status":"finished",
+         "finished":true,
          "vehicules":12
       },
       {
@@ -23,7 +23,7 @@
          "lieu":"Parc ext.",
          "start":"2021-02-01 09:45:42",
          "end":null,
-         "status":"started",
+         "finished":false,
          "vehicules":2
       },
       {
@@ -33,7 +33,7 @@
          "lieu":"Parc VO",
          "start":"2021-02-01 09:42:57",
          "end":"2021-02-01 16:28:02",
-         "status":"finished",
+         "finished":true,
          "vehicules":12
       },
       {
@@ -43,7 +43,7 @@
          "lieu":"Parc VO",
          "start":"2021-02-01 09:42:57",
          "end":"2021-02-01 16:28:02",
-         "status":"finished",
+         "finished":true,
          "vehicules":12
       },
       {
@@ -53,7 +53,7 @@
          "lieu":"Parc VO",
          "start":"2021-02-01 09:42:57",
          "end":"2021-02-01 16:28:02",
-         "status":"finished",
+         "finished":true,
          "vehicules":12
       }
    ],
