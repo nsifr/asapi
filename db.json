@@ -134,6 +134,7 @@
       },
       {
          "id":"60215f0870033aaf476956dc",
+         "inventaire": 1,
          "marque":"RENAULT",
          "modele":"508 Hybride",
          "immatriculation":"NS-396-FP",
@@ -143,6 +144,7 @@
       },
       {
          "id":"60215f08b469c34515a1f35a",
+         "inventaire": 1,
          "marque":"FORD",
          "modele":"508SW",
          "immatriculation":"QP-060-NA",
@@ -152,6 +154,7 @@
       },
       {
          "id":"60215f088ff0070bceaa7229",
+         "inventaire": 1,
          "marque":"KIA",
          "modele":"e2008",
          "immatriculation":"TI-656-WT",
